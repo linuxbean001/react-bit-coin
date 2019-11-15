@@ -1,0 +1,39 @@
+.row{
+  margin-top: 8%;
+}
+.table{
+  margin-top: 64px;
+  font-size: 22px;
+  background-color:#2C2D31;
+}
+.text{
+  color: white;
+}
+.text1{
+  color: white;
+  background-color: #18191D;
+}
+.litecoin{
+color: #3ED360;
+}
+.ethereum{
+  color: #3F3939;
+}
+.eos{
+  color: #7B7B7B;
+}
+.ripple{
+  color: #444040
+}
+.bitcoin{
+  color: #18191D
+}
+.bitcoincash{
+  color: #4E4C4C;
+}
+.mainColor{
+  color: #3ED360;
+  }
+  body{
+    background: #0E0E0E;
+  }
